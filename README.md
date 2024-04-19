@@ -1,1 +1,2 @@
 # beettle
+ぼくなつチックな虫相撲ゲームをebitengineで作る
